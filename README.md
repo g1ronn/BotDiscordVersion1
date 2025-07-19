@@ -8,6 +8,7 @@ Este projeto foi criado com o objetivo de praticar e experimentar funcionalidade
 - Respostas automáticas a mensagens
 - Comandos básicos personalizados
 - Estrutura inicial para expansão futura
+- Comandos Matemáticos 
 
 ## Tecnologias utilizadas
 
